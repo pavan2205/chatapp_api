@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pavan2205/chatapp_api.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/pavan2205/chatapp_api.git/static/js/main.e70fbfbe.js",
+    "index.html": "/pavan2205/chatapp_api.git/index.html",
+    "main.dc4d6ff2.css.map": "/pavan2205/chatapp_api.git/static/css/main.dc4d6ff2.css.map",
+    "main.e70fbfbe.js.map": "/pavan2205/chatapp_api.git/static/js/main.e70fbfbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.e70fbfbe.js"
+  ]
+}
